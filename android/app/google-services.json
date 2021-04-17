@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "383630976512",
+    "project_id": "image-to-text-converter-2fe7d",
+    "storage_bucket": "image-to-text-converter-2fe7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383630976512:android:8d4b998f1f9c6d5f815ae5",
+        "android_client_info": {
+          "package_name": "com.parthbalar.image_to_text_converter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "383630976512-v1qlfun0d5tnbd6jbmb6jd1sraa9tbak.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ45aLLMfiTQixFT4y6lm0iFh-Q963hG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "383630976512-v1qlfun0d5tnbd6jbmb6jd1sraa9tbak.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
